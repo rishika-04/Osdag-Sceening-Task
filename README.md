@@ -104,8 +104,8 @@ osdag-bridge-module-ui-web/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/osdag-bridge-module-ui-web.git
-cd osdag-bridge-module-ui-web
+git clone https://github.com/rishika-04/Osdag-Sceening-Task.git
+cd Osdag-Sceening-Task
 ```
 
 ---
